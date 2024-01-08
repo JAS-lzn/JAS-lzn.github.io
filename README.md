@@ -1,2 +1,2 @@
 # JAS-lzn.github.io
-beans
+OwO beans
